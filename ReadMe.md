@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align=center># 💫 About Me:
 🔭 I am currently working on a minecraft server.<br>👯 I want to support open source developed projects.<br>🌱 I’m currently learning Kotlin<br>💬 Ask me about<br>⚡ Fun fact
 
 
