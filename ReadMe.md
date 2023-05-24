@@ -1,18 +1,18 @@
 
- # <center> 💫 About Me: </h1>
+ # <h1 align=center> 💫 About Me: </h1>
 ### <center>🔭 I am currently working on AsabiMC.<br>👯 I want to support open source developed projects.<br>🌱 I’m currently learning Kotlin<br>💬 Ask me about<br>⚡ Fun fact
-</center>
+</h1>
 
-##                                                 <center> 🌐 Socials: </center>
+## <h2 align=center> 🌐 Socials: </h2>
 [<center>![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)</center>](https://discord.gg/https://discord.gg/2Zd2UQ7mNN) 
 
-## <center> 💻 Tech Stack: </center>
+## <h2 align=center> 💻 Tech Stack: </h2>
 
 
 [<center>
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)</center>]
 
-#<center> 📊 GitHub Stats: 
+# <h1 align=center> 📊 GitHub Stats: </h1>
 ![](https://github-readme-stats.vercel.app/api?username=AxteriaFX&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AxteriaFX&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AxteriaFX&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
