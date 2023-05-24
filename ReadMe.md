@@ -1,9 +1,9 @@
-<h1 align=center> # 💫 About Me: </h1>
-<h3 align= center>🔭 I am currently working on AsabiMC.<br>👯 I want to support open source developed projects.<br>🌱 I’m currently learning Kotlin<br>💬 Ask me about<br>⚡ Fun fact
-</h3>
+<center> # 💫 About Me:
+🔭 I am currently working on AsabiMC.<br>👯 I want to support open source developed projects.<br>🌱 I’m currently learning Kotlin<br>💬 Ask me about<br>⚡ Fun fact
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/2Zd2UQ7mNN) 
+
+<## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/2Zd2UQ7mNN)
 
 # 💻 Tech Stack:
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -23,3 +23,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AxteriaFX&icon=2&color=11)](https://visitcount.itsvg.in)
+</center>
