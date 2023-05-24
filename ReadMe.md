@@ -1,6 +1,6 @@
-# 💫 About Me:
-🔭 I am currently working on a minecraft server.<br>👯 I want to support open source developed projects.<br>🌱 I’m currently learning Kotlin<br>💬 Ask me about<br>⚡ Fun fact
-
+<h1 align=center> # 💫 About Me: </h1>
+<h3 align= center>🔭 I am currently working on AsabiMC.<br>👯 I want to support open source developed projects.<br>🌱 I’m currently learning Kotlin<br>💬 Ask me about<br>⚡ Fun fact
+</h3>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/2Zd2UQ7mNN) 
@@ -23,5 +23,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AxteriaFX&icon=2&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
