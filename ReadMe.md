@@ -1,4 +1,14 @@
-<center> # 💫 About Me:
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
+
+# 💫 About Me:
 🔭 I am currently working on AsabiMC.<br>👯 I want to support open source developed projects.<br>🌱 I’m currently learning Kotlin<br>💬 Ask me about<br>⚡ Fun fact
 
 
@@ -23,4 +33,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AxteriaFX&icon=2&color=11)](https://visitcount.itsvg.in)
-</center>
