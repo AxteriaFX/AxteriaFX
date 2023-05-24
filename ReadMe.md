@@ -10,7 +10,7 @@
 
 
 
-<br><br><br><br><br><br><br><br><br>![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br><br><br><br><br><br><br><br><br>![Kotlin]<br><br><br><br>(https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # <h1 align=center> 📊 GitHub Stats: </h1>
 ![](https://github-readme-stats.vercel.app/api?username=AxteriaFX&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)
