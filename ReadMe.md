@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">I'm AxteriaFX from Turkey<br><br>- 🔭 I am working on AsabiMC.<br>- 📚 I'm currently learning Kotlin<br>- ⚡ In my free time i play video games.</p>
+<p align="left">I'm AxteriaFX from Turkey<br><br>- 🔭 I am working on AsabiMC.<br>- 📚 I'm currently learning Kotlin<br>- ⚡ In my free time i play video games.</p>
 
 ###
 
